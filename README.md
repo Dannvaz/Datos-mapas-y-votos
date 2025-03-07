@@ -4,7 +4,7 @@ Se agregado los siguientes códigos:
 - 1.Diseccion_secciones.ipynb (Codigo simple sin explicaciones)
 - 1.5_Diseccion_secciones.ipynb (Codigo con expliciones de uso)
 # *Explicación*:
-Las entradas en donde abordo el proceso: <ldvndatos.blogspot.com>
+Las entradas en donde abordo el proceso: <[ldvndatos.blogspot.com](https://ldvndatos.blogspot.com/)>
 # *Datos*:
 Para los datos del Marco electoral se encuentran en <https://x.com/DesigualdadQGIS/status/1790528844039922113> que comparten en el formato gpkg
 
